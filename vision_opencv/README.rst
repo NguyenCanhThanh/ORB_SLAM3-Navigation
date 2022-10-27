@@ -6,4 +6,4 @@
 
 Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 
-
+* First download the python build tool
