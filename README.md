@@ -10,5 +10,10 @@
 1. Clone the repository
 
 ```
-https://github.com/NguyenCanhThanh/ORB_SLAM3-Navigation
+git clone https://github.com/NguyenCanhThanh/ORB_SLAM3-Navigation
+```
+
+Clone ![VCR_Bot](https://github.com/NguyenCanhThanh/VCRBot) Gazebo Simulation
+```
+git clone https://github.com/NguyenCanhThanh/VCRBot
 ```
