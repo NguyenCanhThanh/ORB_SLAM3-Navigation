@@ -13,7 +13,7 @@
 git clone https://github.com/NguyenCanhThanh/ORB_SLAM3-Navigation
 ```
 
-Clone ![VCR_Bot](https://github.com/NguyenCanhThanh/VCRBot) Gazebo Simulation
+Clone [VCR_Bot](https://github.com/NguyenCanhThanh/VCRBot) Gazebo Simulation
 ```
 git clone https://github.com/NguyenCanhThanh/VCRBot
 ```
